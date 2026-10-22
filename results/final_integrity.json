@@ -1,0 +1,14 @@
+{
+  "all_checks_passed": true,
+  "identical_splits_across_variants": true,
+  "current_sources_match_training": true,
+  "runs": [
+    "results\\abide_full",
+    "results\\abide_ablations\\equal_fusion",
+    "results\\abide_ablations\\graph_only",
+    "results\\abide_ablations\\hypergraph_only",
+    "results\\abide_ablations\\no_personalization",
+    "results\\abide_ablations\\no_spatial",
+    "results\\abide_ablations\\no_temporal"
+  ]
+}

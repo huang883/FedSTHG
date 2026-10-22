@@ -1,0 +1,428 @@
+[
+  {
+    "url": "https://www.nitrc.org/plugins/mwiki/index.php/neurobureau:AthenaPipeline",
+    "status": 200,
+    "final": "https://www.nitrc.org/plugins/mwiki/index.php/neurobureau:AthenaPipeline",
+    "links": [
+      [
+        "By Popularity",
+        "/top/toplist.php?type=downloads"
+      ],
+      [
+        "Downloads",
+        "/frs/?group_id=383"
+      ],
+      [
+        "7.1 AAL, EZ, HO, and TT Atlas construction",
+        "#AAL.2C_EZ.2C_HO.2C_and_TT_Atlas_construction"
+      ],
+      [
+        "download section",
+        "http://www.nitrc.org/frs/?group_id=383"
+      ],
+      [
+        "KKI preproc corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3464"
+      ],
+      [
+        "NeuroIMAGE preproc corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3465"
+      ],
+      [
+        "NYU preproc corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3466"
+      ],
+      [
+        "OHSU preproc corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3467"
+      ],
+      [
+        "Peking_1 preproc corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3468"
+      ],
+      [
+        "Peking_2 preproc corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3469"
+      ],
+      [
+        "Peking_3 preproc corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3470"
+      ],
+      [
+        "Pittsburgh preproc corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3471"
+      ],
+      [
+        "WashU preproc corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3472"
+      ],
+      [
+        "download section",
+        "http://www.nitrc.org/frs/?group_id=383"
+      ],
+      [
+        "KKI fALFF corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3566"
+      ],
+      [
+        "NeuroIMAGE fALFF corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3568"
+      ],
+      [
+        "NYU fALFF corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3567"
+      ],
+      [
+        "OHSU fALFF corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3569"
+      ],
+      [
+        "Peking_1 fALFF corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3570"
+      ],
+      [
+        "Peking_2 fALFF corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3571"
+      ],
+      [
+        "Peking_3 fALFF corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3572"
+      ],
+      [
+        "Pittsburgh fALFF corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3573"
+      ],
+      [
+        "WashU fALFF corrected filtering",
+        "http://www.nitrc.org/frs/downloadlink.php/3565"
+      ],
+      [
+        "KKI data",
+        "http://www.nitrc.org/frs/downloadlink.php/3259"
+      ],
+      [
+        "xforms",
+        "http://www.nitrc.org/frs/downloadlink.php/3317"
+      ],
+      [
+        "motion",
+        "http://www.nitrc.org/frs/downloadlink.php/3326"
+      ],
+      [
+        "NeuroIMAGE data",
+        "http://www.nitrc.org/frs/downloadlink.php/3260"
+      ],
+      [
+        "xforms",
+        "http://www.nitrc.org/frs/downloadlink.php/3318"
+      ],
+      [
+        "motion",
+        "http://www.nitrc.org/frs/downloadlink.php/3327"
+      ],
+      [
+        "NYU data (part1)",
+        "http://www.nitrc.org/frs/downloadlink.php/3261"
+      ],
+      [
+        "xforms",
+        "http://www.nitrc.org/frs/downloadlink.php/3319"
+      ],
+      [
+        "motion",
+        "http://www.nitrc.org/frs/downloadlink.php/3328"
+      ],
+      [
+        "NYU data (part2)",
+        "http://www.nitrc.org/frs/downloadlink.php/3262"
+      ],
+      [
+        "NYU data (part3)",
+        "http://www.nitrc.org/frs/downloadlink.php/3263"
+      ],
+      [
+        "NYU data (part4)",
+        "http://www.nitrc.org/frs/downloadlink.php/3264"
+      ],
+      [
+        "OHSU data",
+        "http://www.nitrc.org/frs/downloadlink.php/3265"
+      ],
+      [
+        "xforms",
+        "http://www.nitrc.org/frs/downloadlink.php/3320"
+      ],
+      [
+        "motion",
+        "http://www.nitrc.org/frs/downloadlink.php/3329"
+      ],
+      [
+        "Peking_1 data",
+        "http://www.nitrc.org/frs/downloadlink.php/3266"
+      ],
+      [
+        "xforms",
+        "http://www.nitrc.org/frs/downloadlink.php/3321"
+      ],
+      [
+        "motion",
+        "http://www.nitrc.org/frs/downloadlink.php/3330"
+      ],
+      [
+        "Peking_2 data",
+        "http://www.nitrc.org/frs/downloadlink.php/3267"
+      ],
+      [
+        "xforms",
+        "http://www.nitrc.org/frs/downloadlink.php/3322"
+      ],
+      [
+        "motion",
+        "http://www.nitrc.org/frs/downloadlink.php/3331"
+      ],
+      [
+        "Peking_3 data",
+        "http://www.nitrc.org/frs/downloadlink.php/3268"
+      ],
+      [
+        "xforms",
+        "http://www.nitrc.org/frs/downloadlink.php/3323"
+      ],
+      [
+        "motion",
+        "http://www.nitrc.org/frs/downloadlink.php/3332"
+      ],
+      [
+        "Pittsburgh data",
+        "http://www.nitrc.org/frs/downloadlink.php/3269"
+      ],
+      [
+        "xforms",
+        "http://www.nitrc.org/frs/downloadlink.php/3324"
+      ],
+      [
+        "motion",
+        "http://www.nitrc.org/frs/downloadlink.php/3333"
+      ],
+      [
+        "WashU data",
+        "http://www.nitrc.org/frs/downloadlink.php/3270"
+      ],
+      [
+        "xforms",
+        "http://www.nitrc.org/frs/downloadlink.php/3325"
+      ],
+      [
+        "motion",
+        "http://www.nitrc.org/frs/downloadlink.php/3334"
+      ],
+      [
+        "Number of volumes for each resting state scan",
+        "http://www.nitrc.org/frs/downloadlink.php/3396"
+      ],
+      [
+        "Perl script for estimating summary motion parameters",
+        "http://www.nitrc.org/frs/downloadlink.php/3410"
+      ],
+      [
+        "Smith PNAS 2009 RSNs extracted using multiple regression",
+        "http://www.nitrc.org/frs/downloadlink.php/3426"
+      ],
+      [
+        "download section",
+        "http://www.nitrc.org/frs/?group_id=383"
+      ],
+      [
+        "training set phenotypic data",
+        "http://www.nitrc.org/frs/downloadlink.php/3916"
+      ],
+      [
+        "testing set phenotypic data",
+        "http://www.nitrc.org/frs/downloadlink.php/3917"
+      ],
+      [
+        "here",
+        "http://fcon_1000.projects.nitrc.org/indi/adhd200/general/ADHD-200_PhenotypicKey.pdf"
+      ],
+      [
+        "here",
+        "http://www.nitrc.org/frs/downloadlink.php/3974"
+      ],
+      [
+        "here",
+        "http://www.nitrc.org/frs/downloadlink.php/3426"
+      ],
+      [
+        "download",
+        "http://www.nitrc.org/frs/downloadlink.php/3694"
+      ],
+      [
+        "AAL Time Courses",
+        "http://www.nitrc.org/frs/downloadlink.php/3419"
+      ],
+      [
+        "EZ Time Courses",
+        "http://www.nitrc.org/frs/downloadlink.php/3420"
+      ],
+      [
+        "HO Time Courses",
+        "http://www.nitrc.org/frs/downloadlink.php/3421"
+      ],
+      [
+        "TT Time Courses",
+        "http://www.nitrc.org/frs/downloadlink.php/3422"
+      ],
+      [
+        "CC200 Time Courses",
+        "http://www.nitrc.org/frs/downloadlink.php/3423"
+      ],
+      [
+        "CC400 Time Courses",
+        "http://www.nitrc.org/frs/downloadlink.php/3424"
+      ],
+      [
+        "AAL Toolbox",
+        "http://www.cyceron.fr/web/aal__anatomical_automatic_labeling.html"
+      ],
+      [
+        "650 subjects",
+        "http://www.nitrc.org/frs/downloadlink.php/3425"
+      ],
+      [
+        "KKI ReHo",
+        "http://www.nitrc.org/frs/downloadlink.php/3575"
+      ],
+      [
+        "NeuroIMAGE ReHo",
+        "http://www.nitrc.org/frs/downloadlink.php/3577"
+      ],
+      [
+        "NYU ReHo",
+        "http://www.nitrc.org/frs/downloadlink.php/3576"
+      ],
+      [
+        "OHSU ReHo",
+        "http://www.nitrc.org/frs/downloadlink.php/3581"
+      ],
+      [
+        "Peking 1 ReHo",
+        "http://www.nitrc.org/frs/downloadlink.php/3578"
+      ],
+      [
+        "Peking 2 ReHo",
+        "http://www.nitrc.org/frs/downloadlink.php/3579"
+      ],
+      [
+        "Peking 3 ReHo",
+        "http://www.nitrc.org/frs/downloadlink.php/3580"
+      ],
+      [
+        "Pittsburgh ReHo",
+        "http://www.nitrc.org/frs/downloadlink.php/3574"
+      ],
+      [
+        "WashU ReHo",
+        "http://www.nitrc.org/frs/downloadlink.php/3582"
+      ],
+      [
+        "main download interface",
+        "http://www.nitrc.org/frs/?group_id=383"
+      ],
+      [
+        "Brown Test Release All Preprocessing",
+        "http://www.nitrc.org/frs/downloadlink.php/3589"
+      ],
+      [
+        "KKI Test Release All Preprocessing",
+        "http://www.nitrc.org/frs/downloadlink.php/3590"
+      ],
+      [
+        "NeuroIMAGE Test Release All Preprocessing",
+        "http://www.nitrc.org/frs/downloadlink.php/3609"
+      ],
+      [
+        "NYU Test Release All Preprocessing",
+        "http://www.nitrc.org/frs/downloadlink.php/3591"
+      ],
+      [
+        "OHSU Test Release All Preprocessing",
+        "http://www.nitrc.org/frs/downloadlink.php/3592"
+      ],
+      [
+        "Peking 1 Test Release All Preprocessing",
+        "http://www.nitrc.org/frs/downloadlink.php/3593"
+      ],
+      [
+        "Pittsburgh Test Release All Preprocessing",
+        "http://www.nitrc.org/frs/downloadlink.php/3594"
+      ],
+      [
+        "AAL Test Release time courses",
+        "http://www.nitrc.org/frs/downloadlink.php/3595"
+      ],
+      [
+        "EZ Test Release time courses",
+        "http://www.nitrc.org/frs/downloadlink.php/3596"
+      ],
+      [
+        "HO Test Release time courses",
+        "http://www.nitrc.org/frs/downloadlink.php/3597"
+      ],
+      [
+        "TT Test Release time courses",
+        "http://www.nitrc.org/frs/downloadlink.php/3598"
+      ],
+      [
+        "CC200 Test Release time courses",
+        "http://www.nitrc.org/frs/downloadlink.php/3599"
+      ],
+      [
+        "CC400 Test Release time courses",
+        "http://www.nitrc.org/frs/downloadlink.php/3600"
+      ],
+      [
+        "Test Release fALFF",
+        "http://www.nitrc.org/frs/downloadlink.php/3601"
+      ],
+      [
+        "Test Release ReHo",
+        "http://www.nitrc.org/frs/downloadlink.php/3603"
+      ],
+      [
+        "Test Release PNAS RSNs",
+        "http://www.nitrc.org/frs/downloadlink.php/3602"
+      ]
+    ],
+    "response_text_sha256": "833623c3da47a00d1736fdc5d82926e0c1d67a96cdba8dee1efda2efb20ad2b4",
+    "captured_text_chars": 20000
+  },
+  {
+    "url": "https://preprocessed-connectomes-project.github.io/adhd200/download.html",
+    "status": 200,
+    "final": "http://preprocessed-connectomes-project.org/adhd200/download.html",
+    "links": [
+      [
+        "Download",
+        "download.html"
+      ],
+      [
+        "here",
+        "https://github.com/preprocessed-connectomes-project/abide/blob/master/download_abide_preproc.py"
+      ],
+      [
+        "here",
+        "https://raw.githubusercontent.com/preprocessed-connectomes-project/abide/master/download_abide_preproc_guide.txt"
+      ]
+    ],
+    "response_text_sha256": "7fbfe3c0d0c1c485f3068b7f35f70a802c4ceeef438dde2db956af9275a87ee6",
+    "captured_text_chars": 1669
+  },
+  {
+    "url": "https://www.nitrc.org/frs/download.php/9024/adhd200_preprocessed_phenotypics.tsv",
+    "status": 200,
+    "final": "https://www.nitrc.org/frs/download.php/9024/adhd200_preprocessed_phenotypics.tsv",
+    "links": [],
+    "response_text_sha256": "d684f0fbdc8cd1ff96dd1d7004c9ab1a85110b7ba6c8711815cc6f4187ef583d",
+    "captured_text_chars": 20000
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0957417426036705",
+    "status": 403,
+    "final": "https://www.sciencedirect.com/science/article/pii/S0957417426036705",
+    "response_text_sha256": "83dac7a8a330bd54bc70a3c77b2ece456893c6d151922c3ffa10fb2bbe7ec46d",
+    "captured_text_chars": 15000
+  },
+  {
+    "url": "https://neurobureau.projects.nitrc.org/ADHD200/Data.html",
+    "status": 200,
+    "final": "https://neurobureau.projects.nitrc.org/ADHD200/Data.html",
+    "response_text_sha256": "2ca3c98f19555234a513f1a8157c6d380d89fbac3e2449f40c0cea12d5cdb452",
+    "captured_text_chars": 10676
+  },
+  {
+    "url": "https://preprocessed-connectomes-project.github.io/abide/cpac.html",
+    "status": 200,
+    "final": "http://preprocessed-connectomes-project.org/abide/cpac.html",
+    "response_text_sha256": "de96b8d54e8760ca13ca41d57fbd460954170183551bd456e44b34f12e447195",
+    "captured_text_chars": 4379
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.nitrc.org/frs/downloadlink.php/3419",
+    "status": 200,
+    "final": "https://www.nitrc.org/account/login.php?return_to=%2Ffrs%2Fdownloadlink.php%2F3419&feedback=The+tool%2Fresource+administrator+has+requested+that+you+log+in+to+download+this+file.",
+    "type": "text/html; charset=UTF-8",
+    "length": null,
+    "prefix": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>      <!DOCTYPE HTML PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\">\t  \n      <html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en   \">\n      <head>\n\n          <!-- Global site tag (gtag.js) - Google Analytics HERE -->\n          <script async src=\"https:"
+  },
+  {
+    "url": "https://www.nitrc.org/frs/downloadlink.php/3595",
+    "status": 200,
+    "final": "https://www.nitrc.org/account/login.php?return_to=%2Ffrs%2Fdownloadlink.php%2F3595&feedback=The+tool%2Fresource+administrator+has+requested+that+you+log+in+to+download+this+file.",
+    "type": "text/html; charset=UTF-8",
+    "length": null,
+    "prefix": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>      <!DOCTYPE HTML PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\">\t  \n      <html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en   \">\n      <head>\n\n          <!-- Global site tag (gtag.js) - Google Analytics HERE -->\n          <script async src=\"https:"
+  },
+  {
+    "url": "https://www.nitrc.org/frs/downloadlink.php/3916",
+    "status": 200,
+    "final": "https://www.nitrc.org/account/login.php?return_to=%2Ffrs%2Fdownloadlink.php%2F3916&feedback=The+tool%2Fresource+administrator+has+requested+that+you+log+in+to+download+this+file.",
+    "type": "text/html; charset=UTF-8",
+    "length": null,
+    "prefix": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>      <!DOCTYPE HTML PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\">\t  \n      <html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en   \">\n      <head>\n\n          <!-- Global site tag (gtag.js) - Google Analytics HERE -->\n          <script async src=\"https:"
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "dataset": "SYNTHETIC_NOT_MEDICAL_DATA",
+  "synthetic": true,
+  "variant": "no_personalization",
+  "evaluated_folds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "expected_folds": 5,
+  "rounds": 5,
+  "seed": 42,
+  "pooled": {
+    "ACC": {
+      "mean": 0.8666666666666666,
+      "sd": 0.1513825177048746,
+      "folds": 5
+    },
+    "AUC": {
+      "mean": 1.0,
+      "sd": 0.0,
+      "folds": 5
+    },
+    "SEN": {
+      "mean": 1.0,
+      "sd": 0.0,
+      "folds": 5
+    },
+    "SPE": {
+      "mean": 0.7333333333333333,
+      "sd": 0.30276503540974914,
+      "folds": 5
+    },
+    "F1": {
+      "mean": 0.8946153846153846,
+      "sd": 0.1149864926464159,
+      "folds": 5
+    }
+  },
+  "macro_client": {
+    "ACC": {
+      "mean": 0.8666666666666666,
+      "sd": 0.1513825177048746,
+      "folds": 5
+    },
+    "AUC": {
+      "mean": 1.0,
+      "sd": 0.0,
+      "folds": 5
+    },
+    "SEN": {
+      "mean": 1.0,
+      "sd": 0.0,
+      "folds": 5
+    },
+    "SPE": {
+      "mean": 0.7333333333333333,
+      "sd": 0.30276503540974914,
+      "folds": 5
+    },
+    "F1": {
+      "mean": 0.8964285714285716,
+      "sd": 0.11462004668486579,
+      "folds": 5
+    }
+  },
+  "strict_paper_reproduction": false
+}

@@ -1,0 +1,10 @@
+{
+  "original_user_pdf": "FedSTHG_论文中文全文译稿_附原文.pdf",
+  "pages": 47,
+  "english_page_offset": 23,
+  "note": "Source read on 2026-10-20. Original WeChat temporary PDF path no longer exists at 2026-10-21 recheck; PDF checksum unavailable, not invented.",
+  "extracted_text_sha256": {
+    "paper.txt": "ea06e2b3a0a4aebe14439b68fa772a876868652a4674388cd965bfb4e2415781",
+    "translation.txt": "4628b17585e70dea2cd24057e9f41ec5f6780a1c75fd6bc075f4b07ccc611537"
+  }
+}

@@ -1,0 +1,2 @@
+# Optional, only for make_report.py --plot; not required for training.
+matplotlib==3.10.0

@@ -1,0 +1,42 @@
+{
+  "run": "results\\abide_full",
+  "folds": [
+    {
+      "fold": 0,
+      "n": 98,
+      "metric_recalculation": true,
+      "checkpoint_round": 50,
+      "replay_max_abs_error": 0.0
+    },
+    {
+      "fold": 1,
+      "n": 97,
+      "metric_recalculation": true,
+      "checkpoint_round": 50,
+      "replay_max_abs_error": 0.0
+    },
+    {
+      "fold": 2,
+      "n": 97,
+      "metric_recalculation": true,
+      "checkpoint_round": 50,
+      "replay_max_abs_error": 0.0
+    },
+    {
+      "fold": 3,
+      "n": 96,
+      "metric_recalculation": true,
+      "checkpoint_round": 50,
+      "replay_max_abs_error": 0.0
+    },
+    {
+      "fold": 4,
+      "n": 96,
+      "metric_recalculation": true,
+      "checkpoint_round": 50,
+      "replay_max_abs_error": 0.0
+    }
+  ],
+  "all_checks_passed": true,
+  "complete_five_fold_run": true
+}

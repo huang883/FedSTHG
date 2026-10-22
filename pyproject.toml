@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fedsthg-reproduction"
+version = "0.1.0"
+description = "Auditable independent implementation of FedSTHG, with explicit unresolved assumptions"
+requires-python = ">=3.11"
+dependencies = ["torch==2.9.1", "numpy==2.1.3", "scipy==1.15.3", "scikit-learn==1.6.1", "requests==2.32.3"]
+
+[tool.setuptools.packages.find]
+include = ["fedsthg*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"

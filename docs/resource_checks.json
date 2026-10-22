@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.eswa.2026.134766",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1016/j.eswa.2026.134766",
+    "body": "{\"status\":\"ok\",\"message-type\":\"work\",\"message-version\":\"1.0.0\",\"message\":{\"indexed\":{\"date-parts\":[[2026,10,17]],\"date-time\":\"2026-10-17T19:50:51Z\",\"timestamp\":1792266651063,\"version\":\"4.4.0\"},\"reference-count\":53,\"publisher\":\"Elsevier BV\",\"license\":[{\"start\":{\"date-parts\":[[2026,10,1]],\"date-time\":\"2026-10-01T00:00:00Z\",\"timestamp\":1790812800000},\"content-version\":\"tdm\",\"delay-in-days\":0,\"URL\":\"https:\\/\\/www.elsevier.com\\/tdm\\/userlicense\\/1.0\\/\"},{\"start\":{\"date-parts\":[[2026,10,1]],\"date-time\":\"2026-10-01T00:00:00Z\",\"timestamp\":1790812800000},\"content-version\":\"tdm\",\"delay-in-days\":0,\"URL\":\"https:\\/\\/www.elsevier.com\\/legal\\/tdmrep-license\"},{\"start\":{\"date-parts\":[[2026,10,1]],\"date-time\":\"2026-10-01T00:00:00Z\",\"timestamp\":1790812800000},\"content-version\":\"stm-asf\",\"delay-in-days\":0,\"URL\":\"https:\\/\\/doi.org\\/10.15223\\/policy-017\"},{\"start\":{\"date-parts\":[[2026,10,1]],\"date-time\":\"2026-10-01T00:00:00Z\",\"timestamp\":1790812800000},\"content-version\":\"stm-asf\",\"delay-in-days\":0,\"URL\":\"https:\\/\\/doi.org\\/10.15223\\/policy-037\"},{\"start\":{\"date-parts\":[[2026,10,1]],\"date-time\":\"2026-10-01T00:00:00Z\",\"timestamp\":1790812800000},\"content-version\":\"stm-asf\",\"delay-in-days\":0,\"URL\":\"https:\\"
+  },
+  {
+    "url": "https://api.github.com/search/repositories?q=FedSTHG",
+    "status": 200,
+    "final_url": "https://api.github.com/search/repositories?q=FedSTHG",
+    "body": "{\"total_count\":0,\"incomplete_results\":false,\"items\":[]}"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.eswa.2026.134766",
+    "status": 200,
+    "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0957417426036705",
+    "body": "\n\n\n\n\n\n\n\n\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"https://www.w3.org/TR/html4/loose.dtd\">\n<html>\n<head>\n<meta charset=\"utf-8\">\n<META http-equiv=Content-Type content=\"text/html\">\n<meta HTTP-EQUIV=\"REFRESH\" content=\"2; url='/retrieve/articleSelectSinglePerm?Redirect=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0957417426036705%3Fvia%253Dihub&amp;key=63ee9ad468ad948750025d20359df8b93cc5ed12'\"/>\n<meta name=\"tdm-reservation\" content=\"1\" />\n<meta name=\"tdm-policy\" content=\"https://www.elsevier.com/tdm/tdmrep-policy.json\" />\n<script type=\"text/JavaScript\" src=\"/retrieve/static/script/siteCatalystHelper.js\"></script>\n<script src=\"https://assets.adobedtm.com/4a848ae9611a/519188bfaff2/launch-d9c9ae460653.min.js\"></script>\n<title>Redirecting</title>\n<META http-equiv=Content-Type content=\"text/html; charset=utf-8\">\n<script language=JavaScript type=\"text/javascript\">\nvar timerStart = Date.now();\nvar pageName = \"\";\n\nif (pageName == \"\") {\n\tpageName = \"Auto Article Locator\";\n} \n\tfunction autoRedirectToURL() {\n\t\tvar url = '/retrieve/'+document.getElementById('resultName').value+'?Redirect='+document.getElementById('redirectURL').value+'&key='+document.getE"
+  }
+]

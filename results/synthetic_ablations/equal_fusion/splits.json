@@ -1,0 +1,412 @@
+[
+  {
+    "fold": 0,
+    "seed": 42,
+    "clients": {
+      "virtual_0": {
+        "train": [
+          "synthetic_0_000",
+          "synthetic_0_001",
+          "synthetic_0_002",
+          "synthetic_0_003",
+          "synthetic_0_006",
+          "synthetic_0_007",
+          "synthetic_0_009",
+          "synthetic_0_010",
+          "synthetic_0_011",
+          "synthetic_0_013",
+          "synthetic_0_015",
+          "synthetic_0_016",
+          "synthetic_0_018",
+          "synthetic_0_021",
+          "synthetic_0_022",
+          "synthetic_0_023",
+          "synthetic_0_024",
+          "synthetic_0_027",
+          "synthetic_0_028"
+        ],
+        "val": [
+          "synthetic_0_008",
+          "synthetic_0_017",
+          "synthetic_0_020",
+          "synthetic_0_026",
+          "synthetic_0_029"
+        ],
+        "test": [
+          "synthetic_0_004",
+          "synthetic_0_005",
+          "synthetic_0_012",
+          "synthetic_0_014",
+          "synthetic_0_019",
+          "synthetic_0_025"
+        ]
+      },
+      "virtual_1": {
+        "train": [
+          "synthetic_1_000",
+          "synthetic_1_001",
+          "synthetic_1_002",
+          "synthetic_1_003",
+          "synthetic_1_006",
+          "synthetic_1_007",
+          "synthetic_1_009",
+          "synthetic_1_010",
+          "synthetic_1_011",
+          "synthetic_1_013",
+          "synthetic_1_015",
+          "synthetic_1_016",
+          "synthetic_1_018",
+          "synthetic_1_021",
+          "synthetic_1_022",
+          "synthetic_1_023",
+          "synthetic_1_024",
+          "synthetic_1_027",
+          "synthetic_1_028"
+        ],
+        "val": [
+          "synthetic_1_008",
+          "synthetic_1_017",
+          "synthetic_1_020",
+          "synthetic_1_026",
+          "synthetic_1_029"
+        ],
+        "test": [
+          "synthetic_1_004",
+          "synthetic_1_005",
+          "synthetic_1_012",
+          "synthetic_1_014",
+          "synthetic_1_019",
+          "synthetic_1_025"
+        ]
+      }
+    }
+  },
+  {
+    "fold": 1,
+    "seed": 42,
+    "clients": {
+      "virtual_0": {
+        "train": [
+          "synthetic_0_003",
+          "synthetic_0_004",
+          "synthetic_0_005",
+          "synthetic_0_006",
+          "synthetic_0_007",
+          "synthetic_0_009",
+          "synthetic_0_010",
+          "synthetic_0_011",
+          "synthetic_0_013",
+          "synthetic_0_014",
+          "synthetic_0_016",
+          "synthetic_0_019",
+          "synthetic_0_020",
+          "synthetic_0_022",
+          "synthetic_0_024",
+          "synthetic_0_025",
+          "synthetic_0_027",
+          "synthetic_0_028",
+          "synthetic_0_029"
+        ],
+        "val": [
+          "synthetic_0_000",
+          "synthetic_0_001",
+          "synthetic_0_002",
+          "synthetic_0_012",
+          "synthetic_0_017"
+        ],
+        "test": [
+          "synthetic_0_008",
+          "synthetic_0_015",
+          "synthetic_0_018",
+          "synthetic_0_021",
+          "synthetic_0_023",
+          "synthetic_0_026"
+        ]
+      },
+      "virtual_1": {
+        "train": [
+          "synthetic_1_003",
+          "synthetic_1_004",
+          "synthetic_1_005",
+          "synthetic_1_006",
+          "synthetic_1_007",
+          "synthetic_1_009",
+          "synthetic_1_010",
+          "synthetic_1_011",
+          "synthetic_1_013",
+          "synthetic_1_014",
+          "synthetic_1_016",
+          "synthetic_1_019",
+          "synthetic_1_020",
+          "synthetic_1_022",
+          "synthetic_1_024",
+          "synthetic_1_025",
+          "synthetic_1_027",
+          "synthetic_1_028",
+          "synthetic_1_029"
+        ],
+        "val": [
+          "synthetic_1_000",
+          "synthetic_1_001",
+          "synthetic_1_002",
+          "synthetic_1_012",
+          "synthetic_1_017"
+        ],
+        "test": [
+          "synthetic_1_008",
+          "synthetic_1_015",
+          "synthetic_1_018",
+          "synthetic_1_021",
+          "synthetic_1_023",
+          "synthetic_1_026"
+        ]
+      }
+    }
+  },
+  {
+    "fold": 2,
+    "seed": 42,
+    "clients": {
+      "virtual_0": {
+        "train": [
+          "synthetic_0_000",
+          "synthetic_0_001",
+          "synthetic_0_003",
+          "synthetic_0_004",
+          "synthetic_0_005",
+          "synthetic_0_008",
+          "synthetic_0_012",
+          "synthetic_0_013",
+          "synthetic_0_014",
+          "synthetic_0_015",
+          "synthetic_0_016",
+          "synthetic_0_017",
+          "synthetic_0_018",
+          "synthetic_0_021",
+          "synthetic_0_022",
+          "synthetic_0_023",
+          "synthetic_0_024",
+          "synthetic_0_025",
+          "synthetic_0_027"
+        ],
+        "val": [
+          "synthetic_0_002",
+          "synthetic_0_006",
+          "synthetic_0_009",
+          "synthetic_0_019",
+          "synthetic_0_026"
+        ],
+        "test": [
+          "synthetic_0_007",
+          "synthetic_0_010",
+          "synthetic_0_011",
+          "synthetic_0_020",
+          "synthetic_0_028",
+          "synthetic_0_029"
+        ]
+      },
+      "virtual_1": {
+        "train": [
+          "synthetic_1_000",
+          "synthetic_1_001",
+          "synthetic_1_003",
+          "synthetic_1_004",
+          "synthetic_1_005",
+          "synthetic_1_008",
+          "synthetic_1_012",
+          "synthetic_1_013",
+          "synthetic_1_014",
+          "synthetic_1_015",
+          "synthetic_1_016",
+          "synthetic_1_017",
+          "synthetic_1_018",
+          "synthetic_1_021",
+          "synthetic_1_022",
+          "synthetic_1_023",
+          "synthetic_1_024",
+          "synthetic_1_025",
+          "synthetic_1_027"
+        ],
+        "val": [
+          "synthetic_1_002",
+          "synthetic_1_006",
+          "synthetic_1_009",
+          "synthetic_1_019",
+          "synthetic_1_026"
+        ],
+        "test": [
+          "synthetic_1_007",
+          "synthetic_1_010",
+          "synthetic_1_011",
+          "synthetic_1_020",
+          "synthetic_1_028",
+          "synthetic_1_029"
+        ]
+      }
+    }
+  },
+  {
+    "fold": 3,
+    "seed": 42,
+    "clients": {
+      "virtual_0": {
+        "train": [
+          "synthetic_0_003",
+          "synthetic_0_005",
+          "synthetic_0_006",
+          "synthetic_0_007",
+          "synthetic_0_008",
+          "synthetic_0_011",
+          "synthetic_0_012",
+          "synthetic_0_014",
+          "synthetic_0_015",
+          "synthetic_0_016",
+          "synthetic_0_017",
+          "synthetic_0_018",
+          "synthetic_0_020",
+          "synthetic_0_024",
+          "synthetic_0_025",
+          "synthetic_0_026",
+          "synthetic_0_027",
+          "synthetic_0_028",
+          "synthetic_0_029"
+        ],
+        "val": [
+          "synthetic_0_004",
+          "synthetic_0_010",
+          "synthetic_0_019",
+          "synthetic_0_021",
+          "synthetic_0_023"
+        ],
+        "test": [
+          "synthetic_0_000",
+          "synthetic_0_001",
+          "synthetic_0_002",
+          "synthetic_0_009",
+          "synthetic_0_013",
+          "synthetic_0_022"
+        ]
+      },
+      "virtual_1": {
+        "train": [
+          "synthetic_1_003",
+          "synthetic_1_005",
+          "synthetic_1_006",
+          "synthetic_1_007",
+          "synthetic_1_008",
+          "synthetic_1_011",
+          "synthetic_1_012",
+          "synthetic_1_014",
+          "synthetic_1_015",
+          "synthetic_1_016",
+          "synthetic_1_017",
+          "synthetic_1_018",
+          "synthetic_1_020",
+          "synthetic_1_024",
+          "synthetic_1_025",
+          "synthetic_1_026",
+          "synthetic_1_027",
+          "synthetic_1_028",
+          "synthetic_1_029"
+        ],
+        "val": [
+          "synthetic_1_004",
+          "synthetic_1_010",
+          "synthetic_1_019",
+          "synthetic_1_021",
+          "synthetic_1_023"
+        ],
+        "test": [
+          "synthetic_1_000",
+          "synthetic_1_001",
+          "synthetic_1_002",
+          "synthetic_1_009",
+          "synthetic_1_013",
+          "synthetic_1_022"
+        ]
+      }
+    }
+  },
+  {
+    "fold": 4,
+    "seed": 42,
+    "clients": {
+      "virtual_0": {
+        "train": [
+          "synthetic_0_000",
+          "synthetic_0_002",
+          "synthetic_0_004",
+          "synthetic_0_005",
+          "synthetic_0_008",
+          "synthetic_0_009",
+          "synthetic_0_010",
+          "synthetic_0_011",
+          "synthetic_0_013",
+          "synthetic_0_014",
+          "synthetic_0_015",
+          "synthetic_0_018",
+          "synthetic_0_019",
+          "synthetic_0_022",
+          "synthetic_0_023",
+          "synthetic_0_025",
+          "synthetic_0_026",
+          "synthetic_0_028",
+          "synthetic_0_029"
+        ],
+        "val": [
+          "synthetic_0_001",
+          "synthetic_0_007",
+          "synthetic_0_012",
+          "synthetic_0_020",
+          "synthetic_0_021"
+        ],
+        "test": [
+          "synthetic_0_003",
+          "synthetic_0_006",
+          "synthetic_0_016",
+          "synthetic_0_017",
+          "synthetic_0_024",
+          "synthetic_0_027"
+        ]
+      },
+      "virtual_1": {
+        "train": [
+          "synthetic_1_000",
+          "synthetic_1_002",
+          "synthetic_1_004",
+          "synthetic_1_005",
+          "synthetic_1_008",
+          "synthetic_1_009",
+          "synthetic_1_010",
+          "synthetic_1_011",
+          "synthetic_1_013",
+          "synthetic_1_014",
+          "synthetic_1_015",
+          "synthetic_1_018",
+          "synthetic_1_019",
+          "synthetic_1_022",
+          "synthetic_1_023",
+          "synthetic_1_025",
+          "synthetic_1_026",
+          "synthetic_1_028",
+          "synthetic_1_029"
+        ],
+        "val": [
+          "synthetic_1_001",
+          "synthetic_1_007",
+          "synthetic_1_012",
+          "synthetic_1_020",
+          "synthetic_1_021"
+        ],
+        "test": [
+          "synthetic_1_003",
+          "synthetic_1_006",
+          "synthetic_1_016",
+          "synthetic_1_017",
+          "synthetic_1_024",
+          "synthetic_1_027"
+        ]
+      }
+    }
+  }
+]

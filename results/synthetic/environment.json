@@ -1,0 +1,13 @@
+{
+  "python": "3.13.9",
+  "os": "Windows-11-10.0.26200-SP0",
+  "torch": "2.9.1+cu128",
+  "cuda_runtime": "12.8",
+  "gpu": "NVIDIA GeForce RTX 5070 Laptop GPU",
+  "numpy": "2.1.3",
+  "scipy": "1.15.3",
+  "sklearn": "1.6.1",
+  "deterministic": true,
+  "tf32": false,
+  "cpu_threads": 4
+}

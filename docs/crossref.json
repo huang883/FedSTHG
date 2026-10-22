@@ -1,0 +1,902 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        17
+      ]
+    ],
+    "date-time": "2026-10-17T19:50:51Z",
+    "timestamp": 1792266651063,
+    "version": "4.4.0"
+  },
+  "reference-count": 53,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2026-10-01T00:00:00Z",
+        "timestamp": 1790812800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2026-10-01T00:00:00Z",
+        "timestamp": 1790812800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2026-10-01T00:00:00Z",
+        "timestamp": 1790812800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-017"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2026-10-01T00:00:00Z",
+        "timestamp": 1790812800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2026-10-01T00:00:00Z",
+        "timestamp": 1790812800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-012"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2026-10-01T00:00:00Z",
+        "timestamp": 1790812800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2026-10-01T00:00:00Z",
+        "timestamp": 1790812800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-004"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100004761",
+      "name": "Hainan Province Natural Science Foundation",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100004761",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Expert Systems with Applications"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2026,
+        10
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.eswa.2026.134766",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        16
+      ]
+    ],
+    "date-time": "2026-10-16T15:00:59Z",
+    "timestamp": 1792162859000
+  },
+  "page": "134766",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "FedSTHG: A Federated Learning Framework via Spatiotemporal Hypergraphs for Multi-Center Brain Disease Diagnosis"
+  ],
+  "prefix": "10.1016",
+  "author": [
+    {
+      "given": "Xinyue",
+      "family": "Yu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0007-1469-7047",
+      "authenticated-orcid": false,
+      "given": "Yating",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0009-1514-9135",
+      "authenticated-orcid": false,
+      "given": "Zhenhao",
+      "family": "Chu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0006-3476-8204",
+      "authenticated-orcid": false,
+      "given": "Chunyu",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Wei",
+      "family": "Shen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2484-9389",
+      "authenticated-orcid": false,
+      "given": "Haixia",
+      "family": "Long",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0001",
+      "first-page": "62",
+      "article-title": "The ADHD-200 consortium: a model to advance the translational potential of neuroimaging in clinical neuroscience",
+      "volume": "6",
+      "year": "2012",
+      "journal-title": "Frontiers in systems neuroscience"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.eswa.2026.134766_bib0002",
+      "doi-asserted-by": "crossref",
+      "first-page": "659",
+      "DOI": "10.1038/mp.2013.78",
+      "article-title": "The autism brain imaging data exchange: towards a large-scale evaluation of the intrinsic brain architecture in autism",
+      "volume": "19",
+      "author": "Di Martino",
+      "year": "2014",
+      "journal-title": "Molecular Psychiatry"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0003",
+      "series-title": "Proceedings of the AAAI conference on artificial intelligence",
+      "first-page": "3558",
+      "article-title": "Hypergraph neural networks",
+      "volume": "33",
+      "author": "Feng",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0004",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.patcog.2025.111921",
+      "article-title": "Hypergraph-based semantic and topological self-supervised learning for brain disease diagnosis",
+      "volume": "169",
+      "author": "Han",
+      "year": "2026",
+      "journal-title": "Pattern Recognition"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0005",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1109/TNNLS.2025.3554755",
+      "article-title": "Hypergraph foundation model for brain disease diagnosis",
+      "author": "Han",
+      "year": "2025",
+      "journal-title": "IEEE Transactions on Neural Networks and Learning Systems"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.eswa.2026.134766_bib0006",
+      "doi-asserted-by": "crossref",
+      "first-page": "185",
+      "DOI": "10.1001/jamapsychiatry.2013.277",
+      "article-title": "Meta-analysis of functional magnetic resonance imaging studies of inhibition and attention in attention-deficit/hyperactivity disorder: exploring task-specific, stimulant medication, and age effects",
+      "volume": "70",
+      "author": "Hart",
+      "year": "2013",
+      "journal-title": "JAMA psychiatry"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0007",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.media.2022.102679",
+      "article-title": "Sd-cnn: A static-dynamic convolutional neural network for functional brain networks",
+      "volume": "83",
+      "author": "Huang",
+      "year": "2023",
+      "journal-title": "Medical Image Analysis"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0008",
+      "series-title": "International conference on medical image computing and computer-assisted intervention",
+      "first-page": "562",
+      "article-title": "Edge-variational graph convolutional networks for uncertainty-aware disease prediction",
+      "author": "Huang",
+      "year": "2020"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0009",
+      "doi-asserted-by": "crossref",
+      "first-page": "360",
+      "DOI": "10.1016/j.neuroimage.2013.05.079",
+      "article-title": "Dynamic functional connectivity: promise, issues, and interpretations",
+      "volume": "80",
+      "author": "Hutchison",
+      "year": "2013",
+      "journal-title": "NeuroImage"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "1301",
+      "DOI": "10.1016/j.ins.2022.07.041",
+      "article-title": "Fc–hat: Hypergraph attention network for functional brain network classification",
+      "volume": "608",
+      "author": "Ji",
+      "year": "2022",
+      "journal-title": "Information Sciences"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0011",
+      "series-title": "International conference on medical image computing and computer-assisted intervention",
+      "first-page": "294",
+      "article-title": "Hypergraph-guided federated distillation learning for efficient and robust multi-center fMRI data analysis",
+      "author": "Jin",
+      "year": "2025"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.eswa.2026.134766_bib0012",
+      "doi-asserted-by": "crossref",
+      "first-page": "305",
+      "DOI": "10.1038/s42256-020-0186-1",
+      "article-title": "Secure, privacy-preserving and federated machine learning in medical imaging",
+      "volume": "2",
+      "author": "Kaissis",
+      "year": "2020",
+      "journal-title": "Nature Machine Intelligence"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0013",
+      "doi-asserted-by": "crossref",
+      "first-page": "25586",
+      "DOI": "10.52202/068431-1855",
+      "article-title": "Brain network transformer",
+      "volume": "35",
+      "author": "Kan",
+      "year": "2022",
+      "journal-title": "Advances in Neural Information Processing Systems"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0014",
+      "doi-asserted-by": "crossref",
+      "first-page": "1038",
+      "DOI": "10.1016/j.neuroimage.2016.09.046",
+      "article-title": "BrainnetCNN: Convolutional neural networks for brain networks; towards predicting neurodevelopment",
+      "volume": "146",
+      "author": "Kawahara",
+      "year": "2017",
+      "journal-title": "NeuroImage"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.eswa.2026.134766_bib0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "E639",
+      "DOI": "10.1503/jpn.210066",
+      "article-title": "Thalamocortical functional connectivity in patients with insomnia using resting-state fMRI",
+      "volume": "46",
+      "author": "Kim",
+      "year": "2021",
+      "journal-title": "Journal of Psychiatry and Neuroscience"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.eswa.2026.134766_bib0016",
+      "doi-asserted-by": "crossref",
+      "first-page": "703",
+      "DOI": "10.1038/s41386-019-0563-9",
+      "article-title": "Meta-analysis of cortical thickness abnormalities in medication-free patients with major depressive disorder",
+      "volume": "45",
+      "author": "Li",
+      "year": "2020",
+      "journal-title": "Neuropsychopharmacology"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0017",
+      "series-title": "International conference on machine learning",
+      "first-page": "6357",
+      "article-title": "Ditto: Fair and robust federated learning through personalization",
+      "author": "Li",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0018",
+      "first-page": "429",
+      "article-title": "Federated optimization in heterogeneous networks",
+      "volume": "2",
+      "author": "Li",
+      "year": "2020",
+      "journal-title": "Proceedings of Machine Learning and Systems"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0019",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.media.2020.101765",
+      "article-title": "Multi-site fmri analysis using privacy-preserving federated learning and domain adaptation: ABIDE results",
+      "volume": "65",
+      "author": "Li",
+      "year": "2020",
+      "journal-title": "Medical Image Analysis"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0020",
+      "unstructured": "Li, X., Jiang, M., Zhang, X., Kamp, M., & Dou, Q. (2021b). FedBN: Federated learning on non-IID features via local batch normalization. 10.48550/arXiv.2102.07623"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0021",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.compmedimag.2025.102612",
+      "article-title": "Fgdn: A federated graph convolutional network framework for multi-site major depression disorder diagnosis",
+      "author": "Liu",
+      "year": "2025",
+      "journal-title": "Computerized Medical Imaging and Graphics"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.eswa.2026.134766_bib0022",
+      "doi-asserted-by": "crossref",
+      "first-page": "860",
+      "DOI": "10.1109/TMI.2023.3325261",
+      "article-title": "Deep fusion of multi-template using spatio-temporal weighted multi-hypergraph convolutional networks for brain disease analysis",
+      "volume": "43",
+      "author": "Liu",
+      "year": "2024",
+      "journal-title": "IEEE Transactions on Medical Imaging"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.eswa.2026.134766_bib0023",
+      "doi-asserted-by": "crossref",
+      "first-page": "1334",
+      "DOI": "10.1109/TMI.2024.3493195",
+      "article-title": "Toward integrating federated learning with split learning via spatio-temporal graph framework for brain disease prediction",
+      "volume": "44",
+      "author": "Mao",
+      "year": "2024",
+      "journal-title": "IEEE Transactions on Medical Imaging"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0024",
+      "series-title": "Artificial intelligence and statistics",
+      "first-page": "1273",
+      "article-title": "Communication-efficient learning of deep networks from decentralized data",
+      "author": "McMahan",
+      "year": "2017"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.eswa.2026.134766_bib0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "893",
+      "DOI": "10.1016/j.neuroimage.2008.09.036",
+      "article-title": "The impact of global signal regression on resting state correlations: are anti-correlated networks introduced?",
+      "volume": "44",
+      "author": "Murphy",
+      "year": "2009",
+      "journal-title": "Neuroimage"
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.eswa.2026.134766_bib0026",
+      "doi-asserted-by": "crossref",
+      "first-page": "1154",
+      "DOI": "10.1176/appi.ajp.2011.11020281",
+      "article-title": "Gray matter volume abnormalities in ADHD: voxel-based meta-analysis exploring the effects of age and stimulant medication",
+      "volume": "168",
+      "author": "Nakao",
+      "year": "2011",
+      "journal-title": "American Journal of Psychiatry"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0027",
+      "doi-asserted-by": "crossref",
+      "first-page": "959",
+      "DOI": "10.1016/j.neuroimage.2016.10.020",
+      "article-title": "Multisite reliability of MR-based functional connectivity",
+      "volume": "146",
+      "author": "Noble",
+      "year": "2017",
+      "journal-title": "NeuroImage"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0028",
+      "unstructured": "Oppenheim, A. V., Schafer, R. W., Buck, J. R. et al. (1989). Discrete-time signal processing."
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0029",
+      "doi-asserted-by": "crossref",
+      "first-page": "117",
+      "DOI": "10.1016/j.media.2018.06.001",
+      "article-title": "Disease prediction using graph convolutional networks: Application to autism spectrum disorder and alzheimer’s disease",
+      "volume": "48",
+      "author": "Parisot",
+      "year": "2018",
+      "journal-title": "Medical Image Analysis"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0030",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.compmedimag.2025.102558",
+      "article-title": "Sfpgcl: Specificity-preserving federated population graph contrastive learning for multi-site asd identification using rs-fmri data",
+      "volume": "124",
+      "author": "Ren",
+      "year": "2025",
+      "journal-title": "Computerized Medical Imaging and Graphics"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eswa.2026.134766_bib0031",
+      "doi-asserted-by": "crossref",
+      "first-page": "119",
+      "DOI": "10.1038/s41746-020-00323-1",
+      "article-title": "The future of digital health with federated learning",
+      "volume": "3",
+      "author": "Rieke",
+      "year": "2020",
+      "journal-title": "NPJ Digital Medicine"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.eswa.2026.134766_bib0032",
+      "doi-asserted-by": "crossref",
+      "first-page": "900",
+      "DOI": "10.1038/mp.2016.60",
+      "article-title": "Cortical abnormalities in adults and adolescents with major depression based on brain scans from 20 cohorts worldwide in the ENIGMA major depressive disorder working group",
+      "volume": "22",
+      "author": "Schmaal",
+      "year": "2017",
+      "journal-title": "Molecular psychiatry"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eswa.2026.134766_bib0033",
+      "doi-asserted-by": "crossref",
+      "first-page": "65",
+      "DOI": "10.1007/s00787-022-02133-0",
+      "article-title": "Cortical thickness abnormalities in autism spectrum disorder",
+      "volume": "33",
+      "author": "Shen",
+      "year": "2024",
+      "journal-title": "European child & adolescent psychiatry"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.eswa.2026.134766_bib0034",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.patter.2024.101031",
+      "article-title": "A federated learning architecture for secure and private neuroimaging analysis",
+      "volume": "5",
+      "author": "Stripelis",
+      "year": "2024",
+      "journal-title": "Patterns"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0035",
+      "doi-asserted-by": "crossref",
+      "first-page": "111",
+      "DOI": "10.1016/j.smrv.2018.07.004",
+      "article-title": "A lack of consistent brain alterations in insomnia disorder: an activation likelihood estimation meta-analysis",
+      "volume": "42",
+      "author": "Tahmasian",
+      "year": "2018",
+      "journal-title": "Sleep medicine reviews"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eswa.2026.134766_bib0036",
+      "doi-asserted-by": "crossref",
+      "first-page": "273",
+      "DOI": "10.1006/nimg.2001.0978",
+      "article-title": "Automated anatomical labeling of activations in SPM using a macroscopic anatomical parcellation of the MNI MRI single-subject brain",
+      "volume": "15",
+      "author": "Tzourio-Mazoyer",
+      "year": "2002",
+      "journal-title": "NeuroImage"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.eswa.2026.134766_bib0037",
+      "doi-asserted-by": "crossref",
+      "first-page": "359",
+      "DOI": "10.1176/appi.ajp.2017.17010100",
+      "article-title": "Cortical and subcortical brain morphometry differences between patients with autism spectrum disorder and healthy individuals across the lifespan: results from the ENIGMA ASD working group",
+      "volume": "175",
+      "author": "Van Rooij",
+      "year": "2018",
+      "journal-title": "American Journal of Psychiatry"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0038",
+      "unstructured": "Veličković, P., Cucurull, G., Casanova, A., Romero, A., Liò, P., & Bengio, Y. (2017). Graph attention networks. 10.48550/arXiv.1710.10903"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0039",
+      "doi-asserted-by": "crossref",
+      "first-page": "556",
+      "DOI": "10.3389/fneur.2018.00556",
+      "article-title": "Altered resting-state functional activity in patients with autism spectrum disorder: a quantitative meta-analysis",
+      "volume": "9",
+      "author": "Wang",
+      "year": "2018",
+      "journal-title": "Frontiers in neurology"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0040",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.neubiorev.2022.104929",
+      "article-title": "Task-related neural activation abnormalities in patients with remitted major depressive disorder: a coordinate-based meta-analysis",
+      "volume": "143",
+      "author": "Wang",
+      "year": "2022",
+      "journal-title": "Neuroscience & Biobehavioral Reviews"
+    },
+    {
+      "issue": "14",
+      "key": "10.1016/j.eswa.2026.134766_bib0041",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1097/MD.0000000000019151",
+      "article-title": "Explore structural and functional brain changes in insomnia disorder: A PRISMA-compliant whole brain ALE meta-analysis for multimodal MRI",
+      "volume": "99",
+      "author": "Wu",
+      "year": "2020",
+      "journal-title": "Medicine"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0042",
+      "unstructured": "Xia, L., Yu, J., Liu, Z., Huang, S., Tang, W., & Liu, X. (2025). Non-linear trajectory modeling for multi-step gradient inversion attacks in federated learning. arXiv: 2509.22082."
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0043",
+      "unstructured": "Xu, K., Hu, W., Leskovec, J., & Jegelka, S. (2018). How powerful are graph neural networks?10.48550/arXiv.1810.00826"
+    },
+    {
+      "issue": "18",
+      "key": "10.1016/j.eswa.2026.134766_bib0044",
+      "doi-asserted-by": "crossref",
+      "first-page": "9078",
+      "DOI": "10.1073/pnas.1900390116",
+      "article-title": "Reduced default mode network functional connectivity in patients with recurrent major depressive disorder",
+      "volume": "116",
+      "author": "Yan",
+      "year": "2019",
+      "journal-title": "Proceedings of the National Academy of Sciences"
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.eswa.2026.134766_bib0045",
+      "doi-asserted-by": "crossref",
+      "first-page": "4004",
+      "DOI": "10.1109/TMI.2024.3414476",
+      "article-title": "Brainmass: Advancing brain network analysis for diagnosis with large-scale self-supervised learning",
+      "volume": "43",
+      "author": "Yang",
+      "year": "2024",
+      "journal-title": "IEEE Transactions on Medical Imaging"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0046",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3389/fpsyt.2022.1070142",
+      "article-title": "Meta-analysis of structural and functional alterations of brain in patients with attention-deficit/hyperactivity disorder",
+      "volume": "13",
+      "author": "Yu",
+      "year": "2023",
+      "journal-title": "Frontiers in psychiatry"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0047",
+      "doi-asserted-by": "crossref",
+      "first-page": "24472",
+      "DOI": "10.52202/079017-0771",
+      "article-title": "Long-range brain graph transformer",
+      "volume": "37",
+      "author": "Yu",
+      "year": "2024",
+      "journal-title": "Advances in Neural Information Processing Systems"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0048",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.neucom.2023.126791",
+      "article-title": "Fedbrain: A robust multi-site brain network analysis framework based on federated learning for brain disease diagnosis",
+      "volume": "559",
+      "author": "Zhang",
+      "year": "2023",
+      "journal-title": "Neurocomputing"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0049",
+      "doi-asserted-by": "crossref",
+      "first-page": "584",
+      "DOI": "10.1016/j.neunet.2023.11.004",
+      "article-title": "Preserving specificity in federated graph learning for fMRI-based neurological disorder identification",
+      "volume": "169",
+      "author": "Zhang",
+      "year": "2024",
+      "journal-title": "Neural Networks"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0050",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zhang, Y., Wang, L., Su, K.-J., Zhang, A., Zhu, H., Liu, X., Shen, H., Calhoun, V. D., Wang, Y., & Deng, H. (2025). A privacy-preserving domain adversarial federated learning for multi-site brain functional connectivity analysis. arXiv: 2502.01885. 10.48550/arXiv.2502.01885",
+      "DOI": "10.2139/ssrn.5201547"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0051",
+      "series-title": "Advances in neural information processing systems",
+      "article-title": "Learning with hypergraphs: Clustering, classification, and embedding",
+      "volume": "vol. 19",
+      "author": "Zhou",
+      "year": "2006"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0052",
+      "doi-asserted-by": "crossref",
+      "first-page": "4026",
+      "DOI": "10.1109/TIP.2025.3579991",
+      "article-title": "Dclnet: Double collaborative learning network on stationary-dynamic functional brain network for brain disease classification",
+      "volume": "34",
+      "author": "Zhou",
+      "year": "2025",
+      "journal-title": "IEEE Transactions on Image Processing"
+    },
+    {
+      "key": "10.1016/j.eswa.2026.134766_bib0053",
+      "unstructured": "Zhu, J., Yao, R., & Blaschko, M. B. (2023). Surrogate model extension (SME): A fast and accurate weight update attack on federated learning. arXiv: 2306.00127."
+    }
+  ],
+  "container-title": [
+    "Expert Systems with Applications"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0957417426036705?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0957417426036705?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        17
+      ]
+    ],
+    "date-time": "2026-10-17T19:32:13Z",
+    "timestamp": 1792265533000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0957417426036705"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10
+      ]
+    ]
+  },
+  "references-count": 53,
+  "alternative-id": [
+    "S0957417426036705"
+  ],
+  "URL": "https://doi.org/10.1016/j.eswa.2026.134766",
+  "relation": {},
+  "ISSN": [
+    "0957-4174"
+  ],
+  "issn-type": [
+    {
+      "value": "0957-4174",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        10
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "FedSTHG: A Federated Learning Framework via Spatiotemporal Hypergraphs for Multi-Center Brain Disease Diagnosis",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Expert Systems with Applications",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.eswa.2026.134766",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "134766"
+}

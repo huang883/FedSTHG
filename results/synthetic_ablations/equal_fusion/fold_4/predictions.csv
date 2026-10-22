@@ -1,0 +1,13 @@
+site,subject_id,label,probability,prediction
+virtual_0,synthetic_0_003,1,0.49815088510513306,0
+virtual_0,synthetic_0_006,0,0.33566856384277344,0
+virtual_0,synthetic_0_016,0,0.28125548362731934,0
+virtual_0,synthetic_0_017,1,0.5356013178825378,1
+virtual_0,synthetic_0_024,0,0.3123418390750885,0
+virtual_0,synthetic_0_027,1,0.5516657829284668,1
+virtual_1,synthetic_1_003,1,0.5935467481613159,1
+virtual_1,synthetic_1_006,0,0.4337255656719208,0
+virtual_1,synthetic_1_016,0,0.424575537443161,0
+virtual_1,synthetic_1_017,1,0.6162165999412537,1
+virtual_1,synthetic_1_024,0,0.4356785714626312,0
+virtual_1,synthetic_1_027,1,0.5784693956375122,1

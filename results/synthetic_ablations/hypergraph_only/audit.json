@@ -1,0 +1,42 @@
+{
+  "run": "results\\synthetic_ablations\\hypergraph_only",
+  "folds": [
+    {
+      "fold": 0,
+      "n": 12,
+      "metric_recalculation": true,
+      "checkpoint_round": 5,
+      "replay_max_abs_error": 1.1920928955078125e-07
+    },
+    {
+      "fold": 1,
+      "n": 12,
+      "metric_recalculation": true,
+      "checkpoint_round": 5,
+      "replay_max_abs_error": 5.960464477539063e-08
+    },
+    {
+      "fold": 2,
+      "n": 12,
+      "metric_recalculation": true,
+      "checkpoint_round": 5,
+      "replay_max_abs_error": 2.9802322387695312e-08
+    },
+    {
+      "fold": 3,
+      "n": 12,
+      "metric_recalculation": true,
+      "checkpoint_round": 5,
+      "replay_max_abs_error": 5.960464477539063e-08
+    },
+    {
+      "fold": 4,
+      "n": 12,
+      "metric_recalculation": true,
+      "checkpoint_round": 5,
+      "replay_max_abs_error": 1.1920928955078125e-07
+    }
+  ],
+  "all_checks_passed": true,
+  "complete_five_fold_run": true
+}

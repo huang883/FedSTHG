@@ -1,0 +1,19 @@
+{
+  "source": "Provided FedSTHG English paper, Table 2 and Table 5",
+  "unit": "percent",
+  "type": "paper_reference_NOT_measured_results",
+  "main": {
+    "ABIDE": {"ACC": [72.81, 2.22], "AUC": [77.93, 3.25], "SEN": [70.89, 2.70], "SPE": [72.96, 4.50], "F1": [71.04, 2.42]},
+    "ADHD-200": {"ACC": [68.59, 3.98], "AUC": [64.29, 3.69], "SEN": [68.83, 5.73], "SPE": [67.82, 7.45], "F1": [62.64, 2.58]},
+    "REST-meta-MDD": {"ACC": [64.68, 2.93], "AUC": [66.28, 3.41], "SEN": [72.30, 7.84], "SPE": [55.81, 10.12], "F1": [68.58, 3.12]},
+    "ID": {"ACC": [78.65, 7.67], "AUC": [77.68, 6.62], "SEN": [74.67, 14.24], "SPE": [82.29, 5.43], "F1": [77.29, 9.12]}
+  },
+  "ABIDE_ablation": {
+    "no_temporal": {"ACC": [70.33, 2.84], "AUC": [72.61, 3.70]},
+    "no_spatial": {"ACC": [69.56, 3.41], "AUC": [71.10, 2.08]},
+    "graph_only": {"ACC": [69.18, 1.21], "AUC": [72.10, 1.35]},
+    "hypergraph_only": {"ACC": [69.18, 2.08], "AUC": [72.27, 4.04]},
+    "no_personalization": {"ACC": [71.08, 3.04], "AUC": [73.21, 3.15]},
+    "equal_fusion": {"ACC": [69.94, 2.30], "AUC": [74.00, 2.78]}
+  }
+}

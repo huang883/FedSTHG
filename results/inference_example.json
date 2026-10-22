@@ -1,0 +1,14 @@
+{
+  "site": "NYU",
+  "rounds": 50,
+  "batch_size": 1,
+  "single_subject_bypasses_refinement": true,
+  "research_use_not_clinical_diagnosis": true,
+  "predictions": [
+    {
+      "roi": "../../work/data/abide/roi/NYU_0050952_rois_aal.1D",
+      "patient_probability": 1.0,
+      "prediction": 1
+    }
+  ]
+}

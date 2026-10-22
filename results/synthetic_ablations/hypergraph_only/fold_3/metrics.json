@@ -1,0 +1,53 @@
+{
+  "pooled": {
+    "ACC": 0.5,
+    "AUC": 0.6666666666666667,
+    "SEN": 0.5,
+    "SPE": 0.5,
+    "F1": 0.5,
+    "n": 12,
+    "tn": 3,
+    "fp": 3,
+    "fn": 3,
+    "tp": 3
+  },
+  "macro_client": {
+    "ACC": 0.5,
+    "AUC": 0.8333333333333334,
+    "SEN": 0.5,
+    "SPE": 0.5,
+    "F1": 0.3333333333333333
+  },
+  "clients": {
+    "virtual_0": {
+      "ACC": 0.5,
+      "AUC": 0.6666666666666667,
+      "SEN": 0.0,
+      "SPE": 1.0,
+      "F1": 0.0,
+      "n": 6,
+      "tn": 3,
+      "fp": 0,
+      "fn": 3,
+      "tp": 0
+    },
+    "virtual_1": {
+      "ACC": 0.5,
+      "AUC": 1.0,
+      "SEN": 1.0,
+      "SPE": 0.0,
+      "F1": 0.6666666666666666,
+      "n": 6,
+      "tn": 0,
+      "fp": 3,
+      "fn": 0,
+      "tp": 3
+    }
+  },
+  "fold": 3,
+  "rounds": 5,
+  "elapsed_this_invocation_s": 0.4030261000007158,
+  "peak_gpu_allocated_MiB": null,
+  "encoder_parameters": 6358,
+  "inference_parameters": 7256
+}

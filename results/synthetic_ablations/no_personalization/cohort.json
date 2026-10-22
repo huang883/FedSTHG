@@ -1,0 +1,14 @@
+{
+  "dataset": "SYNTHETIC_NOT_MEDICAL_DATA",
+  "synthetic": true,
+  "manifest_sha256": "278c49b6fdcfce7367e6c5b3090f855ed7dd4b0c2460c9cc13648fae8ed4cce4",
+  "subjects": 60,
+  "counts": {
+    "virtual_0": 30,
+    "virtual_1": 30
+  },
+  "limitations": [
+    "B01-B12/C01 in docs/research.md apply",
+    "Not an exact author cohort/pipeline reproduction"
+  ]
+}
