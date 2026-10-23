@@ -1,5 +1,7 @@
 # FedSTHG 可审计复现项目
 
+本工作区位于 `experiment/temporal-projection` 分支：新增“两层时间投影对照＋训练/验证曲线诊断”。原始成果保留在 GitHub `main` 的 `e6d0ad4`。新实验的冻结方案见 [projection_protocol.md](docs/projection_protocol.md)，结果见 [projection_report.md](docs/projection_report.md)。新增配置默认不启用两层投影，旧检查点仍可加载。下面原始复现说明和历史结果继续保留。
+
 这是依据用户提供论文独立实现的科研项目，包含公式测试、两阶段个性化联邦训练、ABIDE真实数据实验和明确标记的合成验证。**不声称已精确复现作者全部实验。** 原始影像管线、若干网络/训练细节和作者受试者名单未公开，见研究报告。最终实测结果见 `docs/experiment_report.md`（由运行记录生成）。
 
 ## 先看这些文档
@@ -113,3 +115,14 @@ predict.py run_ablations.py audit_run.py
 ```
 
 交付压缩包包含源代码、文档、配置、测试日志、逐人预测与最终模型检查点，不含 Python 环境和原始数据缓存。工作区现有数据保存在 `../../work/data/`，缓存位于 `../../work/cache/`；异地使用请按数据准备说明重新下载并通过命令行指定路径。`delivery_manifest.json` 记录交付文件的 SHA-256，可用 `verify_delivery.py` 校验。结果文件中的本机绝对路径属于运行溯源，不影响显式指定新路径重跑。
+
+新实验结果保存在 `results/projection_study/`。实验结束后运行以下命令审计并生成曲线报告（绘图需要 `requirements-report.txt`）：
+
+```powershell
+& $py audit_run.py --run results/projection_study/baseline --manifest ../../work/data/abide/manifest.json --cache ../../work/cache/abide --device cuda
+& $py audit_run.py --run results/projection_study/temporal256 --manifest ../../work/data/abide/manifest.json --cache ../../work/cache/abide --device cuda
+& $py audit_projection_curves.py --manifest ../../work/data/abide/manifest.json --cache ../../work/cache/abide --device cuda
+& $py report_projection.py
+```
+
+注意：Git clone 到其他目录后，`../../work/` 不一定存在。应自行创建环境、下载数据，并把上述命令中的路径替换为实际位置。`main` 和实验分支各自的文件校验清单对应各自交付时的内容。

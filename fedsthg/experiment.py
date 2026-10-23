@@ -15,6 +15,7 @@ from .config import Config
 from .data import build_cache, make_splits, load_manifest, synthetic_manifest
 from .federated import FederatedTrainer, seed_everything
 from .metrics import binary_metrics, fold_summary, METRICS
+from .diagnostics import train_validation
 
 
 def dump(path, obj):
@@ -100,11 +101,15 @@ def run(cfg,manifest,cache,out,device='cpu',folds=None,resume=False):
             seed_everything(cfg.seed+f);trainer=FederatedTrainer(cfg,data,device)
         start=time.perf_counter()
         if device.startswith('cuda'):torch.cuda.reset_peak_memory_stats()
+        if cfg.diagnostic_interval and trainer.round == 0:
+            dump(folder/'initial_diagnostics.json', train_validation(trainer,train,val))
         for r in range(trainer.round,cfg.rounds):
             log=trainer.run_round(train)
             if (r+1)%5==0 or r==cfg.rounds-1:
                 log['validation']=evaluate(trainer,val)[0]
                 print(f'fold={f} round={r+1}/{cfg.rounds} val_ACC={log["validation"]["pooled"]["ACC"]:.4f}',flush=True)
+            if cfg.diagnostic_interval and ((r+1)%cfg.diagnostic_interval==0 or r==cfg.rounds-1):
+                log['diagnostics']=train_validation(trainer,train,val)
             # Atomic round-boundary save. Optimizers are reset by design at next epoch.
             temporary=folder/'checkpoint.tmp';trainer.save(temporary,provenance);temporary.replace(checkpoint)
             dump(folder/'training_log.json',trainer.history)

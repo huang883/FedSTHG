@@ -1,0 +1,56 @@
+{
+  "all_checks_passed": true,
+  "only_config_difference": "temporal_mlp_width",
+  "folds": [
+    {
+      "variant": "baseline",
+      "fold": 0,
+      "max_pooled_metric_error": 0.0
+    },
+    {
+      "variant": "baseline",
+      "fold": 1,
+      "max_pooled_metric_error": 0.0
+    },
+    {
+      "variant": "baseline",
+      "fold": 2,
+      "max_pooled_metric_error": 0.0
+    },
+    {
+      "variant": "baseline",
+      "fold": 3,
+      "max_pooled_metric_error": 0.0
+    },
+    {
+      "variant": "baseline",
+      "fold": 4,
+      "max_pooled_metric_error": 0.0
+    },
+    {
+      "variant": "temporal256",
+      "fold": 0,
+      "max_pooled_metric_error": 0.0
+    },
+    {
+      "variant": "temporal256",
+      "fold": 1,
+      "max_pooled_metric_error": 0.0
+    },
+    {
+      "variant": "temporal256",
+      "fold": 2,
+      "max_pooled_metric_error": 0.0
+    },
+    {
+      "variant": "temporal256",
+      "fold": 3,
+      "max_pooled_metric_error": 0.0
+    },
+    {
+      "variant": "temporal256",
+      "fold": 4,
+      "max_pooled_metric_error": 0.0
+    }
+  ]
+}

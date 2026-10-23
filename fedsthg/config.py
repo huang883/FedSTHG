@@ -30,6 +30,8 @@ class Config:
     folds: int = 5
     validation_fraction: float = .2
     variant: str = "full"
+    temporal_mlp_width: int = 0     # 0: original projection; >0: explicit B03 candidate
+    diagnostic_interval: int = 0   # 0: disabled; read-only train/validation evaluation
 
     @property
     def windows(self):
@@ -40,6 +42,8 @@ class Config:
             raise ValueError("Require 2 <= window <= aligned_length and step > 0")
         if self.n_rois < 2 or self.hidden < 2 or self.layers < 1:
             raise ValueError("Invalid network dimensions")
+        if self.temporal_mlp_width < 0 or self.diagnostic_interval < 0:
+            raise ValueError("Projection width and diagnostic interval must be nonnegative")
         for k, n in [(self.k_sg, self.n_rois), (self.k_sh, self.n_rois),
                      (self.k_tg, self.windows), (self.k_th, self.windows)]:
             if not 0 <= k < n:

@@ -54,7 +54,10 @@ class Encoder(nn.Module):
             self.spatial_paths = ParallelPaths(d, cfg.layers, cfg.dropout, cfg.variant)
         if cfg.variant != 'no_temporal':
             # B03: temporal projection's internal structure is not fully specified.
-            self.temporal_input = input_projection(cfg.n_rois*(cfg.n_rois-1)//2, d)
+            n_edges = cfg.n_rois*(cfg.n_rois-1)//2
+            self.temporal_input = input_projection(n_edges, d) if cfg.temporal_mlp_width == 0 else nn.Sequential(
+                nn.Linear(n_edges, cfg.temporal_mlp_width), nn.ReLU(),
+                nn.Linear(cfg.temporal_mlp_width, d), nn.LayerNorm(d))
             self.position = nn.Parameter(torch.empty(cfg.windows, d))
             nn.init.normal_(self.position, std=.02)
             self.temporal_paths = ParallelPaths(d, cfg.layers, cfg.dropout, cfg.variant)

@@ -1,0 +1,16 @@
+{
+  "dataset": "ABIDE_PCP_cpac_filt_global",
+  "synthetic": false,
+  "manifest_sha256": "fb522b593fcebce369b25918eb6efb2a36dd66c4757ab3835046cf4190d9bdfd",
+  "subjects": 484,
+  "counts": {
+    "NYU": 175,
+    "UCLA": 98,
+    "UM": 140,
+    "USM": 71
+  },
+  "limitations": [
+    "B01-B12/C01 in docs/research.md apply",
+    "Not an exact author cohort/pipeline reproduction"
+  ]
+}
